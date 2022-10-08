@@ -6,5 +6,5 @@ en la pagina de favoritos la cual permite tambien mediante click eliminar foto d
 ####  Ejecutar Proyecto 🧁🧁🧁🧁
 Necesitarias primero clonar el proyecto en tu computador,
 luego utiliza el comando npm install 
-seguido utiliza el comando npm star para iniciar el proyecto.
+seguido utiliza el comando npm start para iniciar el proyecto.
 
